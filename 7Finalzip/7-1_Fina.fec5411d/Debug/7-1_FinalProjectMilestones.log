@@ -1,0 +1,9 @@
+﻿  MainCode.cpp
+C:\Users\KWash\OneDrive\Desktop\Najah Downloads folder\CS330Content\Projects\7-1_FinalProjectMilestones\Source\MainCode.cpp(86,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KWash\OneDrive\Desktop\Najah Downloads folder\CS330Content\Projects\7-1_FinalProjectMilestones\Source\MainCode.cpp(196,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\KWash\OneDrive\Desktop\Najah Downloads folder\CS330Content\Projects\7-1_FinalProjectMilestones\Source\MainCode.cpp(196,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\KWash\OneDrive\Desktop\Najah Downloads folder\CS330Content\Projects\7-1_FinalProjectMilestones\Source\MainCode.cpp(198,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KWash\OneDrive\Desktop\Najah Downloads folder\CS330Content\Projects\7-1_FinalProjectMilestones\Source\MainCode.cpp(199,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\KWash\OneDrive\Desktop\Najah Downloads folder\CS330Content\Projects\7-1_FinalProjectMilestones\Source\MainCode.cpp(200,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\KWash\OneDrive\Desktop\Najah Downloads folder\CS330Content\Projects\7-1_FinalProjectMilestones\Source\MainCode.cpp(201,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  7-1_FinalProjectMilestones.vcxproj -> C:\Users\KWash\OneDrive\Desktop\Najah Downloads folder\CS330Content\Projects\7-1_FinalProjectMilestones\Debug\7-1_FinalProjectMilestones.exe
